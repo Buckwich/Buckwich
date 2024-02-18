@@ -11,6 +11,7 @@ To make it easier to find my projects, I've curated a list of my most interestin
 
 #### Keyboard Stuff
 
+- [**Keyboard Configuration Framework** (2024)](https://github.com/Buckwich/kcf-hub): Tools to prototype custom keyboards
 - [**Tekskey** (2023)](https://github.com/Buckwich/tekskey): custom split orthogonal keyboard
 - [**QMK Keyboard Browser** (2020)](https://github.com/qmk-helper/keyboard-browser): Angular Website that visualizes all keyboards and their layouts that are part of the upstream QMK firmware using a backendless approach
 - [**My QMK userspace**](https://github.com/Buckwich/qmk_firmware_linked): Collection of my keyboards and their layouts
@@ -23,15 +24,16 @@ To make it easier to find my projects, I've curated a list of my most interestin
 #### Sleep Optimization
 
 - [**MotionPause** (2022)](https://github.com/Buckwich/sleepTimer): An Android app that automatically pauses your music when it detects inactivity, such as when you fall asleep
+- [**LuminaBreath** (2019)](https://github.com/Buckwich/LuminaBreath): A compact light designed for guided breathing exercises, using light patterns
 
 > [!NOTE]
 > Currently I am missing the source code for the following projects. I will try to find it and make them public.
 
 - **NightWolf** (2015): A smart alarm clock that not only simulates sunrise but also monitors your sleep cycle to set alarms optimally
-- **LuminaBreath** (2019): A compact light designed for guided breathing exercises, using light patterns
 - **GlowTime** (2021): A unique clock made entirely of light, featuring a night dimming function
 
 #### Others
 
-- [**VS Code Custom CSS Snippets**](https://github.com/Buckwich/vscode-custom-css-snippets): Make VS Code Tabs easier to read
-- [**Check Cache**](https://github.com/Buckwich/check-cache): Github Action to check the Github Cache before actually downloading it
+- [**TS Template** (2024)](https://github.com/Buckwich/typescript-template): Quickstart template repo with my opinionated setup for TypeScript projects
+- [**VS Code Custom CSS Snippets** (2020)](https://github.com/Buckwich/vscode-custom-css-snippets): Make VS Code Tabs easier to read
+- [**Check Cache** (2022)](https://github.com/Buckwich/check-cache): Github Action to check the Github Cache before actually downloading it

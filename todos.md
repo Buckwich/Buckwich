@@ -31,10 +31,10 @@
   - [ ] find code & design files
   - [ ] document project (+images)
   - [ ] make public git repo
-- [ ] Meditation/Night Light:
-  - [ ] find code & design files
-  - [ ] document project (+images)
-  - [ ] make public git repo
+- [x] Meditation/Night Light:
+  - [x] find code & design files
+  - [x] document project (+images)
+  - [x] make public git repo
 - [ ] MotionPause: TODO find code
   - [ ] find code & design files
   - [ ] document project
